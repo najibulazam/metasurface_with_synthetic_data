@@ -1,7 +1,7 @@
 {
     "Training": {
         "Total epochs": 218,
-        "Training time (min)": 0.6497869809468587,
+        "Training time (min)": 0.6551734248797099,
         "Best validation loss": 0.714886263012886,
         "Final train loss": 0.6766967079856179,
         "Final val loss": 0.7220489929119746
