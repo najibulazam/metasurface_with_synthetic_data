@@ -1,0 +1,37 @@
+{
+    "Training": {
+        "Total epochs": 218,
+        "Training time (min)": 0.6497869809468587,
+        "Best validation loss": 0.714886263012886,
+        "Final train loss": 0.6766967079856179,
+        "Final val loss": 0.7220489929119746
+    },
+    "Test Set Performance": {
+        "MAE Width (nm)": 53.33943176269531,
+        "MAE Height (nm)": 68.74752044677734,
+        "MAE Average (nm)": 61.04347610473633,
+        "RMSE Width (nm)": 64.56238655604747,
+        "RMSE Height (nm)": 85.17217454313497,
+        "R\u00b2 Width": 0.19439560174942017,
+        "R\u00b2 Height": 0.44634997844696045
+    },
+    "Model": {
+        "Architecture": "MLP",
+        "Parameters": 133890,
+        "Input dim": 2,
+        "Output dim": 2,
+        "Hidden layers": [
+            128,
+            256,
+            256,
+            128
+        ]
+    },
+    "Dataset": {
+        "Total samples": 5000,
+        "Train samples": 3500,
+        "Val samples": 750,
+        "Test samples": 750,
+        "Noise level": 0.02
+    }
+}
